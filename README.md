@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF66&height=200&section=header&text=SECURITY%20OPERATIONS%20%26%20CYBER%20DEFENSE&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=180&section=header&text=SECURITY%20OPERATIONS%20%26%20CYBER%20DEFENSE&fontSize=30&fontColor=000000&animation=twinkling&fontAlignY=40" width="100%" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00FF66&center=true&vCenter=true&repeat=true&width=720&height=60&lines=%24+whoami;%3E+Imtiaz+Azad+Emon;%3E+SOC+Analyst+L1+%7C+Blue+Team;%3E+Security+Automation+%7C+n8n+%7C+Python;%3E+LLM+Fine-Tuning+for+Security+%28Learning%29" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=00FF66&center=true&vCenter=true&repeat=true&width=720&height=60&lines=%24+whoami;%3E+Imtiaz+Azad+Emon;%3E+SOC+Analyst+L1+%7C+Blue+Team;%3E+Security+Automation+%7C+n8n+%7C+Python;%3E+LLM+Fine-Tuning+for+Security+%28Learning%29" alt="Typing Header" />
 </p>
 
 ```text
-███████╗███╗   ███╗ ██████╗ ███╗   ██╗
-██╔════╝████╗ ████║██╔═══██╗████╗  ██║
-█████╗  ██╔████╔██║██║   ██║██╔██╗ ██║
-██╔══╝  ██║╚██╔╝██║██║   ██║██║╚██╗██║
-███████╗██║ ╚═╝ ██║╚██████╔╝██║ ╚████║
-╚══════╝╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
-        S E C _ O P S _ C O R E
+██████████    ██      ██      ██████      ██      ██
+██            ████  ████    ██      ██    ████    ██
+████████      ██  ██  ██    ██      ██    ██  ██  ██
+██            ██      ██    ██      ██    ██    ████
+██████████    ██      ██      ██████      ██      ██
+              S E C _ O P S _ C O R E
 ```
 
 <p align="center">
@@ -96,13 +95,16 @@
 ## 📈 `./system_metrics.sh`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iaemonbd&show_icons=true&theme=matrix&hide_border=true&title_color=00FF66&text_color=FFFFFF&icon_color=00FF66&bg_color=000000" width="48%" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=iaemonbd&theme=dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00FF66&dates=888888" width="48%" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=iaemonbd&theme=dark&hide_border=true&background=000000&ring=00FF66&fire=00FF66&currStreakLabel=00FF66&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00FF66&dates=888888" width="60%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iaemonbd&layout=compact&theme=matrix&hide_border=true&title_color=00FF66&text_color=FFFFFF&bg_color=000000" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iaemonbd&bg_color=000000&color=00FF66&line=00FF66&point=FFFFFF&area=true&hide_border=true" width="48%" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/00FF66/iaemonbd" width="90%" alt="Contribution Chart" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/iaemonbd?label=FOLLOWERS&style=for-the-badge&labelColor=000000&color=00FF66" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/iaemonbd/iaemonbd?label=LAST%20COMMIT&style=for-the-badge&labelColor=000000&color=00FF66" alt="Last Commit" />
 </p>
 
 ---
@@ -117,6 +119,6 @@ SYSTEM_STATUS: 100% SECURE
 
 <img src="https://komarev.com/ghpvc/?username=iaemonbd&style=flat-square&color=00ff66" alt="Profile Views" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=80&section=footer&fontSize=16&fontColor=000000&text=SYSTEM_STATUS%3A%20100%25%20SECURE" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF66&height=80&section=footer" width="100%" alt="Footer" />
 
 </div>
