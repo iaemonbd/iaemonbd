@@ -278,11 +278,6 @@ emon@secops:~/projects$ tree -L 1
   <img src="https://ghchart.rshah.org/00FF88/iaemonbd" width="95%" alt="GitHub contribution graph"/>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/iaemonbd?style=for-the-badge&logo=github&label=FOLLOWERS&labelColor=050B08&color=00FF88" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/last-commit/iaemonbd/iaemonbd?style=for-the-badge&label=PROFILE%20LAST%20COMMIT&labelColor=050B08&color=00FF88" alt="Profile repository last commit"/>
-</p>
-
 ---
 
 ## `08` // ESTABLISH CONNECTION
