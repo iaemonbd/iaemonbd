@@ -1,7 +1,7 @@
 <!-- ===================== CYBERSEC PROFILE README ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020804,45:003B20,100:00FF88&height=220&section=header&text=EMON.exe&fontSize=62&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=SECURITY%20OPERATIONS%20%7C%20AUTOMATION%20%7C%20AI&descSize=14&descAlignY=60&descColor=E0FFF0" width="100%" alt="EMON.exe - Security Operations, Automation, AI"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020804,45:003B20,100:00FF88&height=220&section=header&text=IA%20EMON&fontSize=62&fontColor=00FF88&animation=fadeIn&fontAlignY=38&desc=SECURITY%20OPERATIONS%20%7C%20AUTOMATION%20%7C%20AI&descSize=14&descAlignY=60&descColor=E0FFF0" width="100%" alt="IA EMON - Security Operations, Automation, AI"/>
 </p>
 
 <p align="center">
@@ -38,10 +38,11 @@
   <a href="#01--system-boot">Boot</a> •
   <a href="#02--capability-matrix">Capabilities</a> •
   <a href="#03--tech-stack">Stack</a> •
-  <a href="#04--projects--labs">Projects</a> •
-  <a href="#05--current-operations">Mission</a> •
-  <a href="#06--github-telemetry">Telemetry</a> •
-  <a href="#07--establish-connection">Contact</a>
+  <a href="#04--skills--certifications">Certs</a> •
+  <a href="#05--projects--labs">Projects</a> •
+  <a href="#06--current-operations">Mission</a> •
+  <a href="#07--github-telemetry">Telemetry</a> •
+  <a href="#08--establish-connection">Contact</a>
 </p>
 
 ---
@@ -127,7 +128,50 @@ I enjoy exploring how security teams investigate suspicious activity, analyze lo
 
 ---
 
-## `04` // PROJECTS & LABS
+## `04` // SKILLS & CERTIFICATIONS
+
+```text
+emon@secops:~/skills$ ./skills.sh --levels
+```
+
+| Category | Skill | Level |
+|:--|:--|:--|
+| 🛡️ **Cyber & Security** | Linux | `Intermediate` |
+| | Network Penetration | `Intermediate` |
+| | Android Bug Bounty | `Expert` |
+| | Critical Infrastructure Protection | `Beginner` |
+| | SOC L1 | `Beginner` |
+| 💻 **Web App & Automation** | HTML5 | `Expert` |
+| | CSS3 | `Intermediate` |
+| | PHP | `Intermediate` |
+| | JavaScript | `Beginner` |
+| | n8n | `Intermediate` |
+| 🧠 **AI & LLM** | Prompt Engineering (Chain of Thought, Few-shot) | `Intermediate` |
+| | Agentic AI | `Intermediate` |
+| | AI Agent Workflow | `Beginner` |
+| | AI Applications | `Beginner` |
+
+<details open>
+<summary><b>🏅 Certifications</b></summary>
+
+<br/>
+
+| Date | Certification | Issuer |
+|:--|:--|:--|
+| 31.10.2026 | Android Bug Bounty Hunting: Hunt Like a Rat | EC-Council |
+| 31.10.2026 | Cybersecurity Fundamentals Associate | OPSWAT Academy |
+| 31.10.2026 | Introduction to Prompt Engineering with GitHub Copilot | Microsoft |
+| 29.10.2026 | Critical Infrastructure Protection | OPSWAT Academy |
+| 11.10.2026 | Build an AI Agent | IBM SkillsBuild |
+| 06.12.2016 | Web Design & Development (6-Month Training) | Binary IT, Uttara |
+
+🔗 **[View credentials and certificates on my portfolio](https://iaemon.me/#certifications)**
+
+</details>
+
+---
+
+## `05` // PROJECTS & LABS
 
 ```bash
 emon@secops:~/projects$ tree -L 1
@@ -209,7 +253,7 @@ emon@secops:~/projects$ tree -L 1
 
 ---
 
-## `05` // CURRENT OPERATIONS
+## `06` // CURRENT OPERATIONS
 
 ```text
 ┌──[emon@secops]─[~/objectives]
@@ -224,7 +268,7 @@ emon@secops:~/projects$ tree -L 1
 
 ---
 
-## `06` // GITHUB TELEMETRY
+## `07` // GITHUB TELEMETRY
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=iaemonbd&theme=dark&hide_border=true&background=050B08&ring=00FF88&fire=00FF88&currStreakLabel=00FF88&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=00FF88&dates=8A9A90" width="75%" alt="GitHub streak statistics"/>
@@ -241,7 +285,7 @@ emon@secops:~/projects$ tree -L 1
 
 ---
 
-## `07` // ESTABLISH CONNECTION
+## `08` // ESTABLISH CONNECTION
 
 <p align="center">
   <a href="https://iaemon.me">
