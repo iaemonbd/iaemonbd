@@ -11,9 +11,9 @@
 <!-- ANIMATED BANNER (dark version for dark mode, original for light mode) -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/octocat-lab-dark.gif">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/octocat-lab.gif">
-    <img src="./assets/octocat-lab-dark.gif" width="92%" alt="Animated Octocat presenting in a control-room lab"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iaemonbd/iaemonbd/main/octocat-lab-dark.gif">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iaemonbd/iaemonbd/main/octocat-lab.gif">
+    <img src="https://raw.githubusercontent.com/iaemonbd/iaemonbd/main/octocat-lab-dark.gif" width="92%" alt="Animated Octocat presenting in a control-room lab"/>
   </picture>
 </p>
 
